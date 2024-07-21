@@ -1,0 +1,15 @@
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\bin\Debug\net8.0\ProblemSolvingConsole.exe
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\bin\Debug\net8.0\ProblemSolvingConsole.deps.json
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\bin\Debug\net8.0\ProblemSolvingConsole.runtimeconfig.json
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\bin\Debug\net8.0\ProblemSolvingConsole.dll
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\bin\Debug\net8.0\ProblemSolvingConsole.pdb
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.AssemblyInfoInputs.cache
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.AssemblyInfo.cs
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.csproj.CoreCompileInputs.cache
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.sourcelink.json
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.dll
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\refint\ProblemSolvingConsole.dll
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.pdb
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ProblemSolvingConsole.genruntimeconfig.cache
+C:\Users\hazem\OneDrive\Documents\GitHub\LeetForces\ProblemSolvingConsole\ProblemSolvingConsole\obj\Debug\net8.0\ref\ProblemSolvingConsole.dll
