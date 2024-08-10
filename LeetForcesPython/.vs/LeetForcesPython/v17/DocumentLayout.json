@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesPython\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1009E001-2F04-45E9-9A8E-63E9B8B4930A}|LeetForcesPython\\LeetForcesPython.pyproj|C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesPython\\LeetForcesPython\\LeetForcesPython.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1009E001-2F04-45E9-9A8E-63E9B8B4930A}|LeetForcesPython\\LeetForcesPython.pyproj|solutionrelative:LeetForcesPython\\LeetForcesPython.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeetForcesPython.py",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesPython\\LeetForcesPython\\LeetForcesPython.py",
+              "RelativeDocumentMoniker": "LeetForcesPython\\LeetForcesPython.py",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesPython\\LeetForcesPython\\LeetForcesPython.py",
+              "RelativeToolTip": "LeetForcesPython\\LeetForcesPython.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-08-10T19:02:33.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

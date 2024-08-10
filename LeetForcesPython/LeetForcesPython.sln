@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeetForcesPython", "LeetForcesPython\LeetForcesPython.pyproj", "{1009E001-2F04-45E9-9A8E-63E9B8B4930A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1009E001-2F04-45E9-9A8E-63E9B8B4930A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1009E001-2F04-45E9-9A8E-63E9B8B4930A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8F48DE-4A4E-47AF-93DD-F344EEA1199C}
+	EndGlobalSection
+EndGlobal
