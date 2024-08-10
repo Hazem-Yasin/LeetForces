@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3B02DF-4A2B-4BB2-A590-3DDFCACB3C70}|LeetForcesJS\\LeetForcesJS.njsproj|C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesJS\\LeetForcesJS\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F3B02DF-4A2B-4BB2-A590-3DDFCACB3C70}|LeetForcesJS\\LeetForcesJS.njsproj|solutionrelative:LeetForcesJS\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesJS\\LeetForcesJS\\app.js",
+              "RelativeDocumentMoniker": "LeetForcesJS\\app.js",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesJS\\LeetForcesJS\\app.js",
+              "RelativeToolTip": "LeetForcesJS\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-10T19:10:20.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

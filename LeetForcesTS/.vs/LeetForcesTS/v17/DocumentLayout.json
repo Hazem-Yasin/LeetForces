@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473F610B-4E7F-4A7E-B23B-25562351C3F7}|LeetForcesTS\\LeetForcesTS.njsproj|C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesTS\\LeetForcesTS\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{473F610B-4E7F-4A7E-B23B-25562351C3F7}|LeetForcesTS\\LeetForcesTS.njsproj|solutionrelative:LeetForcesTS\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesTS\\LeetForcesTS\\app.ts",
+              "RelativeDocumentMoniker": "LeetForcesTS\\app.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\LeetForces\\LeetForcesTS\\LeetForcesTS\\app.ts",
+              "RelativeToolTip": "LeetForcesTS\\app.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-10T19:11:47.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
