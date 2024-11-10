@@ -1,0 +1,15 @@
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/bin/Debug/net8.0/LeetForecesCPP
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/bin/Debug/net8.0/LeetForecesCPP.deps.json
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/bin/Debug/net8.0/LeetForecesCPP.runtimeconfig.json
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/bin/Debug/net8.0/LeetForecesCPP.dll
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/bin/Debug/net8.0/LeetForecesCPP.pdb
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.AssemblyInfoInputs.cache
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.AssemblyInfo.cs
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.csproj.CoreCompileInputs.cache
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.sourcelink.json
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.dll
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/refint/LeetForecesCPP.dll
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.pdb
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/LeetForecesCPP.genruntimeconfig.cache
+/home/hazem/Documents/GitHub/LeetForces/LeetForcesCPP/LeetForcesCPP-Terminal/LeetForecesCPP/obj/Debug/net8.0/ref/LeetForecesCPP.dll
