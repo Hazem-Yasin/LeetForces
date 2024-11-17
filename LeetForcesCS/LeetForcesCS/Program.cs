@@ -1,28 +1,40 @@
-﻿int[] flowerbed = [1, 0, 0, 0, 1];
-int n = 2;
-
-Console.WriteLine(flowerbed.Length);
-
-
-
-//for (int z = 0; z <= flowerbed.Length; z++)
-//{
-//    for (int x = -1; x <= flowerbed.Length; x++)
-//    {
-//        for (int y = 1; y <= flowerbed.Length; y++)
-//        {
-//            Console.WriteLine(flowerbed[x]);
-//            Console.WriteLine(flowerbed[y]);
-//            Console.WriteLine(flowerbed[z]);
-//        }
-//    }
-
-//}
+﻿string s = "abc";
+string t = "ahbgdc";
+char[] sChar = s.ToCharArray();
+char[] tChar = t.ToCharArray();
 
 
-for (int z = 0; z <= flowerbed.Length; z++)
+for (int i = 0; i < sChar.Length; i++)
 {
-    Console.WriteLine(flowerbed[z]);
-    Console.WriteLine(flowerbed[z + 1]);
-
+    Console.WriteLine(sChar[i]);
 }
+
+//for (int i = 0; i < s.Length; i++)
+//{
+//    for (int j = 0; j < t.Length; j++)
+//    {
+
+//        if (s[i] == t[j])
+//        {
+//            //added a counter to check how many of the s letters are in t
+//            int counter = 1;
+//            //will be adding +1 everytime he finds one s letter in t
+//            counter++;
+//            Console.WriteLine(counter);
+//            //this is just for testing 
+//            //Console.WriteLine(i);
+//            //checking if all the letters are avialble
+//            if (counter >= s.Length)
+//            {
+//                Console.WriteLine("all the letters in s are in t");
+
+//            }
+//            else if (counter < t.Length)
+//            {
+//                Console.WriteLine("some letters from s are missing in t");
+//            }
+
+//        }
+
+//    }
+//}
