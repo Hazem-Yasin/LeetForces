@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LeetForcesCS2SandBox/1.0.0": {
+        "runtime": {
+          "LeetForcesCS2SandBox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetForcesCS2SandBox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

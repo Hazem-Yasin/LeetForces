@@ -1,0 +1,15 @@
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\bin\Debug\net9.0\LeetForcesCS2SandBox.exe
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\bin\Debug\net9.0\LeetForcesCS2SandBox.deps.json
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\bin\Debug\net9.0\LeetForcesCS2SandBox.runtimeconfig.json
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\bin\Debug\net9.0\LeetForcesCS2SandBox.dll
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\bin\Debug\net9.0\LeetForcesCS2SandBox.pdb
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.AssemblyInfoInputs.cache
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.AssemblyInfo.cs
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.csproj.CoreCompileInputs.cache
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.sourcelink.json
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.dll
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\refint\LeetForcesCS2SandBox.dll
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.pdb
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\LeetForcesCS2SandBox.genruntimeconfig.cache
+C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS2\LeetForcesCS2SandBox\obj\Debug\net9.0\ref\LeetForcesCS2SandBox.dll
