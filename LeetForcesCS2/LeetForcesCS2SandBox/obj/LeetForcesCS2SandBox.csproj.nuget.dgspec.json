@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj": {}
+    "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj": {
+    "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj",
+        "projectUniqueName": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj",
         "projectName": "LeetForcesCS2SandBox",
-        "projectPath": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj",
+        "projectPath": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\LeetForcesCS2SandBox.csproj",
         "packagesPath": "C:\\Users\\HazemYa-sin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\obj\\",
+        "outputPath": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCS2\\LeetForcesCS2SandBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
