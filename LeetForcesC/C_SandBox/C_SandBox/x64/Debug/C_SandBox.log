@@ -1,0 +1,3 @@
+﻿  Source.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\HazemYa-sin\Github\LeetForces\LeetForcesC\C_SandBox\x64\Debug\C_SandBox.exe : fatal error LNK1120: 1 unresolved externals
