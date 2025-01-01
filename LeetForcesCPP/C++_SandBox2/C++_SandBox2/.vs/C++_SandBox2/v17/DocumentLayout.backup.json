@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCPP\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428E600D-DEC1-4121-8C02-9A665D8338A3}|C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.vcxproj|C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCPP\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{428E600D-DEC1-4121-8C02-9A665D8338A3}|C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.vcxproj|solutionrelative:C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C\u002B\u002B_SandBox2.cpp",
+              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCPP\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp",
+              "ToolTip": "C:\\Users\\HazemYa-sin\\Github\\LeetForces\\LeetForcesCPP\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp*",
+              "RelativeToolTip": "C\u002B\u002B_SandBox2\\C\u002B\u002B_SandBox2.cpp*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T20:11:27.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
