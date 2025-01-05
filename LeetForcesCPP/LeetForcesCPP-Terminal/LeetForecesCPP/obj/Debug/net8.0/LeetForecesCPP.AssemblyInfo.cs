@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetForecesCPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a60131b406364a3cac827670a4ef896b487fca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6366dd8dd4b92bff3a71c04672a642a818f9935")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetForecesCPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetForecesCPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
