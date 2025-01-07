@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetForcesCS2SandBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6366dd8dd4b92bff3a71c04672a642a818f9935")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb38f193f713afc2b4ecad43a1ca48db2083d2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetForcesCS2SandBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetForcesCS2SandBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
