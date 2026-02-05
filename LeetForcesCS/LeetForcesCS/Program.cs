@@ -1,41 +1,47 @@
-﻿//string s = "abc";
-//string t = "ahbgdc";
-//char[] sChar = s.ToCharArray();
-//char[] tChar = t.ToCharArray();
+﻿class Result
+{
 
+    /*
+     * Complete the 'timeConversion' function below.
+     *
+     * The function is expected to return a STRING.
+     * The function accepts STRING s as parameter.
+     */
 
-//for (int i = 0; i < sChar.Length; i++)
-//{
-//    Console.WriteLine(sChar[i]);
-//}
+    public static string timeConversion(string s)
+    {
+        string period = s.Substring(s.Length - 2); //AM or PM
+        string time = s.Substring(0, s.Length - 2);
+        string[] parts = time.Split(':');
 
-//for (int i = 0; i < s.Length; i++)
-//{
-//    for (int j = 0; j < t.Length; j++)
-//    {
+        int hour = int.Parse(Parts[0]);
 
-//        if (s[i] == t[j])
-//        {
-//            //added a counter to check how many of the s letters are in t
-//            int counter = 1;
-//            //will be adding +1 everytime he finds one s letter in t
-//            counter++;
-//            Console.WriteLine(counter);
-//            //this is just for testing
-//            //Console.WriteLine(i);
-//            //checking if all the letters are avialble
-//            if (counter >= s.Length)
-//            {
-//                Console.WriteLine("all the letters in s are in t");
+        if (period == "AM" && hour == 12)
+        {
+            hour = 0;
+        }
+        else if (period = "PM" && hour != 12)
+        {
+            hour += 12;
+        }
+        return $"{hour:D2}:{parts[1]}:{parts[2]}";
+    }
 
-//            }
-//            else if (counter < t.Length)
-//            {
-//                Console.WriteLine("some letters from s are missing in t");
-//            }
+}
 
-//        }
+class Solution
+{
+    public static void Main(string[] args)
+    {
+        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-//    }
-//}
+        string s = Console.ReadLine();
 
+        string result = Result.timeConversion(s);
+
+        textWriter.WriteLine(result);
+
+        textWriter.Flush();
+        textWriter.Close();
+    }
+}

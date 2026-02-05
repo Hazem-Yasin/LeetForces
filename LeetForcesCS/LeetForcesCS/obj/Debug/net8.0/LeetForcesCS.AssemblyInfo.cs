@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetForcesCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e21221ded2546a64e836bf62b16c662581c2268")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db903e2cd4fa3aa38b38b7734bb8bde3784b7ecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetForcesCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetForcesCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

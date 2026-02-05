@@ -21,3 +21,8 @@ C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\Lee
 C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.dll
 C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\refint\LeetForcesCS.dll
 C:\Users\HazemYa-sin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.pdb
+C:\Users\HazemYasin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HazemYasin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.AssemblyInfoInputs.cache
+C:\Users\HazemYasin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.AssemblyInfo.cs
+C:\Users\HazemYasin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.csproj.CoreCompileInputs.cache
+C:\Users\HazemYasin\OneDrive - IBM\Documents\GitHub\LeetForces\LeetForcesCS\LeetForcesCS\obj\Debug\net8.0\LeetForcesCS.sourcelink.json
